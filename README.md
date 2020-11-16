@@ -16,7 +16,7 @@ We utilized the Pearson correlation matrix of industries to identify the high & 
 ![avatar](/images/cluster.png)
 
 ## Conclusion
-The differences of small business growth patterns among the districts in British Columbia Amrea during the 2010 Winter Olympics are caused by the different industry composition in these districts.
+The differences of small business growth patterns among the districts in British Columbia Amrea during the 2010 Winter Olympics are caused by the different industry composition in these districts.  
 ![avatar](/images/logic.png)
-![avatar](/images/logic.png)   
+![avatar](/images/conclusion.png)   
 
