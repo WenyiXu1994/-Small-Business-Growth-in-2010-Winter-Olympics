@@ -12,7 +12,7 @@ We visualized the growth of small business amount in region DR01 - DR08 and test
 
 
 ### Step 2: Spectral clustering of industries
-We utilized the Pearson correlation matrix of industries to identify the high & low sensitive industries to the 2010 Winter Olympics. The structural break p-values of cluster 1 (sensitive) and cluster 2 (insensitive) are $0.078$ and $0.390$. We further verified that the regions with higher growth rates have higher proportions of cluster 1 industries, which validated our argument.  
+We utilized the Pearson correlation matrix of industries to identify the high & low sensitive industries to the 2010 Winter Olympics. The structural break p-values of cluster 1 (sensitive) and cluster 2 (insensitive) are 0.078 and 0.390. We further verified that the regions with higher growth rates have higher proportions of cluster 1 industries, which validated our argument.  
 ![avatar](/images/cluster.png)
 
 ## Conclusion
